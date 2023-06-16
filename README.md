@@ -1,4 +1,4 @@
-                                             Programa de administración de citas para un consultorio clínico.
+                Programa de administración de citas para un consultorio clínico.
 
 INSTALACIÓN Y CONFIGURACIÓN
 
